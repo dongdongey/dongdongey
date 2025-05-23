@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 rust, back-end, front-end, svelte...
 
 ## 사용하는 언어
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongdongey&layout=compact&theme=tokyonight&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongdongey&layout=compact&theme=tokyonight&langs_count=8" />
 
 ######## 응애
